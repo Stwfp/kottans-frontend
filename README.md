@@ -3,7 +3,7 @@
 
 ## Linux CLI, and HTTP
 Вот скриншот получается [ссыль](https://github.com/Stwfp/kottans-frontend/blob/main/linux_task.jpg)
-Узнал новые команды для Linux, ранее работал только с Bash. Все круто и классно! [скрин](https://github.com/Stwfp/kottans-frontend/blob/main/git-collaboration.jpg)
-## Git collaboration
+Узнал новые команды для Linux, ранее работал только с Bash. Все круто и классно! 
 
-Закончил делать _супер-курсы_!🐤 Продолжаем-с!!1
+## Git collaboration
+Закончил делать _супер-курсы_ [скрин](https://github.com/Stwfp/kottans-frontend/blob/main/git-collaboration.jpg)!🐤 Продолжаем-с!!1
