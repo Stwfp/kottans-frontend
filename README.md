@@ -7,3 +7,6 @@
 
 ## Git collaboration
 Закончил делать _супер-курсы_ [скрин](https://github.com/Stwfp/kottans-frontend/blob/main/git-collaboration.jpg)!🐤 Продолжаем-с!!1
+
+## HTML and CSS
+С небольшим перерывом, но все таки!!! Закончил [HTML и CSS](https://github.com/Stwfp/kottans-frontend/blob/main/HTML_and_CSS_course.jpg)! Продолжаем!
