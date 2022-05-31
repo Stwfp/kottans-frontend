@@ -10,3 +10,7 @@
 
 ## Intro to HTML and CSS
 С небольшим перерывом, но все таки!!! Закончил [HTML и CSS](https://github.com/Stwfp/kottans-frontend/blob/main/HTML_and_CSS_course.jpg)! Продолжаем!
+
+## Responsive Web Design
+Сложная тема для меня показалась, по причине большого объема английского языка и видеоплеера без возможности автоматического перевода. Но я закончил!
+Осталось допройти курс по изображениям, но это успеется. А вот и скрины: [responsive_design](https://github.com/Stwfp/kottans-frontend/blob/main/responsive-design.jpg) и  [flexfroggy](https://github.com/Stwfp/kottans-frontend/blob/main/flexfroggy.jpg). Иду дальше! ㊗️
