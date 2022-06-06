@@ -14,3 +14,6 @@
 ## Responsive Web Design
 Сложная тема для меня показалась, по причине большого объема английского языка и видеоплеера без возможности автоматического перевода. Но я закончил!
 Осталось допройти курс по изображениям, но это успеется. А вот и скрины: [responsive_design](https://github.com/Stwfp/kottans-frontend/blob/main/responsive-design.jpg) и  [flexfroggy](https://github.com/Stwfp/kottans-frontend/blob/main/flexfroggy.jpg). Иду дальше! ㊗️
+
+## Flexbox Zombies and Grif Garden
+Закончил игры. [Скри](https://github.com/Stwfp/kottans-frontend/blob/main/zombies-game.jpg)[ны.](https://github.com/Stwfp/kottans-frontend/blob/main/grif-garden.jpg) Продолжаем-с!
